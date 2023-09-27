@@ -27,7 +27,7 @@ export interface Product {
 }
 
 export interface Price {
-  id: String;
+  id: string;
   product_id?: string;
   active?: boolean;
   description?: string;
