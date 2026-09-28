@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["qbyuwirqscrcoqmpmvxz.supabase.co"],
+    // Covers are served from Supabase Storage; any project ref is allowed.
+    remotePatterns: [{ protocol: "https", hostname: "*.supabase.co" }],
   },
 };
 
