@@ -9,6 +9,8 @@
 
 ![Spotify Clone Preview](./public/images/liked.png)
 
+**Live:** [spotify-app-bdlc.vercel.app](https://spotify-app-bdlc.vercel.app) — press play and choose **Try the demo** to listen as a Premium user, no sign-up. The sample tracks and covers were generated for this demo.
+
 A pixel-perfect, full-stack music streaming application inspired by Spotify. Built with **Next.js 13 App Router** and **Supabase**, featuring a robust backend for handling audio files, images, and user data. It includes professional payment processing for premium subscriptions via **Stripe** and a modern, responsive UI.
 
 ## 🚀 Key Features
